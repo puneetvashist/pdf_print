@@ -1,0 +1,2 @@
+# for rearranging pdf pages
+PyPDF2==3.0.1
